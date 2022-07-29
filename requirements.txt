@@ -1,2 +1,2 @@
-scrapy==1.8.0
+scrapy==2.6.2
 scrapyd-client==1.2.0a1
